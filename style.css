@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+.box{
+    background-color: yellowgreen;
+    height: 250px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 20px;
+}
